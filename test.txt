@@ -1,1 +1,5 @@
 welcome to git
+new command done in git bash[D[D[D[D[D[D[D[D[D[D[D[D[D[D[written[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D
+
+
+[D[B[A[A[D[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C
